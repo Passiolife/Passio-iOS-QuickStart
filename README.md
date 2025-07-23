@@ -25,7 +25,7 @@ Welcome to Passio Quick Start iOS demo application. It is designed to showcase t
 1. Clone the repository
 
   ```bash
-  git clone https://github.com/Passiolife/PassioQuickStart-iOS.git
+  git clone https://github.com/Passiolife/Passio-iOS-QuickStart.git
   ```
 
 2. Install dependencies via Swift Package Manager (SPM)
